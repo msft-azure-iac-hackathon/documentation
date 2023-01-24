@@ -5,11 +5,12 @@
 |:--------:|-------|---------|
 |09:00 - 09:30|Introductions & Goals|The who & the why|
 |09:30 - 10:00|Agenda & Logistics|The how|
-|10:00 - 11:00|Kickoff|- Short introduction into AZL - How to work with the AZL repos - Which solution will land on the AZL|
+|10:00 - 11:00|Kickoff| <ul><li>Short introduction into AZL</li><li>How to work with the AZL repos</li><li>Which solution will land on the AZL</li></ul> |
 |11:00 - 11:10|Coffee break|Enjoy!!|
 |11:10 - 12:00|Hands on|Design, parameterize and start deployment of the ALZ using yml|
 |12:00 - 13:00|Lunch break|Enjoy!!|
 |13:00 - 17:00|Hands on|Continue the landing zone deployment|
+
 
 * Day 2
 
